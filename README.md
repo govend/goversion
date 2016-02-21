@@ -16,6 +16,3 @@ Some things can be difficult to do like:
 
 ## How could you do this?  
 Using a combination of dates, tag names, commit sha hashes, and parent sha of tagged commits from github.com/golang/go it should be possible to identify a particular version or at least make an educated guess.
-
-The `goversion` package makes it easy to identify the currently installed Go
-version at runtime.
