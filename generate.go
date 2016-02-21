@@ -67,7 +67,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	// write source bytes to the "stdpkgs.go" file
+	// write source bytes to the "gotags.go" file
 	if err := ioutil.WriteFile("gotags.go", src, 0644); err != nil {
 		log.Fatal(err)
 	}
