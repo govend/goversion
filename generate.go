@@ -15,7 +15,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/govend/goversion/linkheader"
+	"github.com/jackspirou/goversion/linkheader"
 )
 
 // Tag represents GitHub tag via the v3 API.
