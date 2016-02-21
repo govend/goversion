@@ -1,6 +1,8 @@
 # goversion
 Identify the installed Go version at runtime.
 
+**note: it does not work yet**
+
 I know what your thinking, how hard can it be to parse `$ go version`?
 _Well, it depends on what you want to do_.
 
